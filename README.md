@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @S89219 
+- https://github.com/S89219/T-H-T-/blob/988b25b8e14fd18b7e5a6bd3ae1723424b6eed1a/LICENSE
+- 
 https://join.slack.com/t/newworkspace-ltr3604/shared_invite/zt-17s9i86c3-1dGXe58kjtumzmTibgnWnA#Trần¹²⁵⁸
 
 - 👀 I’m interested in ...
