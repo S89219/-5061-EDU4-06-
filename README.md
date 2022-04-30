@@ -11,83 +11,7 @@ https://join.slack.com/t/newworkspace-ltr3604/shared_invite/zt-17s9i86c3-1dGXe58
   ⁴https://codesearch.wmcloud.org/search/?q=89219
  bước tới tìm kiếm {{89219}}
  
-trình tổng hợp / dữ liệu
-projectcounts / daily / dewiki.csv
-18472013-10-13,26303235,26303235 ,,
-18482013-10-14,28768894,28768894 ,,
-18492013-10-15,2 89219 00,2 89219 00 ,,
-18502013-10-16,28216501,28216501 ,,
-18512013-10-17,27433417,27433417 ,,
-projectcounts / daily / iswiki.csv
-12482012-02-20,92112,92112 ,,
-12492012-02-21,95978,95978 ,,
-12502012-02-22, 89219 , 89219 ,,
-12512012-02-23,98995,98995 ,,
-12522012-02-24,128702,128702 ,,
-projectcounts / daily / kawiki.csv
-13102012-04-22,187247,187247 ,,
-13112012-04-23,200220,200220 ,,
-13122012-04-24,1 89219 , 1 89219 ,,
-13132012-04-25,209510,209510 ,,
-13142012-04-26,201464,201464 ,,
-projectcounts / daily / rowiki.csv
-19742014-02-19,1166320,1166320 ,,
-19752014-02-20,1271759,1271759 ,,
-Năm 19762014-02-21,10 89219 , 10 89219 ,,
-19772014-02-22,1191711,1191711 ,,
-19782014-02-23,1352090,1352090 ,,
-projectcounts / daily / sqwiki.csv
-9392011-04-12,93986,93986 ,,
-9402011-04-13,96896,96896 ,,
-9412011-04-14, 89219 , 89219 ,,
-9422011-04-15.73930.73930 ,,
-9432011-04-16,73239,73239 ,,
-projectcounts / daily_raw / dewiki.csv
-21142013-10-13,26303235,26303235 ,,
-21152013-10-14,28768894,28768894 ,,
-21162013-10-15,2 89219 00,2 89219 00 ,,
-21172013-10-16,28216501,28216501 ,,
-21182013-10-17,27433417,27433417 ,,
-projectcounts / daily_raw / frwiki.csv
-7552010-01-23,482329,482329 ,,
-7562010-01-24.417829.417829 ,,
-7572010-01-25,1 89219 53,1 89219 53 ,,
-7582010-01-26.19099394.19099394 ,,
-7592010-01-27.20080833.20080833 ,,
-projectcounts / daily_raw / iswiki.csv
-15132012-02-20,92112,92112 ,,
-15142012-02-21,95978,95978 ,,
-15152012-02-22, 89219 , 89219 ,,
-15162012-02-23,98995,98995 ,,
-15172012-02-24,128702,128702 ,,
-projectcounts / daily_raw / kawiki.csv
-15752012-04-22,187247,187247 ,,
-15762012-04-23,200220,200220 ,,
-15772012-04-24,1 89219 , 1 89219 ,,
-15782012-04-25,209510,209510 ,,
-15792012-04-26,201464,201464 ,,
-projectcounts / daily_raw / rowiki.csv
-22432014-02-19,1166320,1166320 ,,
-22442014-02-20,1271759,1271759 ,,
-22452014-02-21,10 89219 , 10 89219 ,,
-22462014-02-22,1191711,1191711 ,,
-22472014-02-23,1352090,1352090 ,,
-projectcounts / daily_raw / sqwiki.csv
-11992011-04-12,93986,93986 ,,
-12002011-04-13,96896,96896 ,,
-12012011-04-14, 89219 , 89219 ,,
-12022011-04-15.73930.73930 ,,
-12032011-04-16,73239,73239 ,,
-projectcounts / week_rescaled / svwiktionary.csv
-3022014W23,1157356,1157356 ,,
-3032014W24,1012825,1012825 ,,
-3042014W25, 89219 1, 89219 1 ,,
-3052014W26,825124,825124 ,,
-3062014W27,889155,889155 ,,
-dự án / dữ liệu
-projectview / daily / enwikisource.csv
 
-  
 
 
 89219: Make makeStaticLoader.php pass phpcs | 
@@ -135,38 +59,10 @@ html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="
 
 
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-ksfTgQOOnE+FFXf+yNfVjKSlEckJAdufFIYGK7ZjRhWcZgzAGcmZqqArTgMLpu90FwthqcCX4ldDgKXbmVMeuQ==" rel="stylesheet" href="https://github.githubassets.com/assets/light-92c7d381038e.css" /><link crossorigin="anonymous" media="all" integrity="sha512-1KkMNn8M/al/dtzBLupRwkIOgnA9MWkm8oxS+solP87jByEvY/g4BmoxLihRogKcX1obPnf4Yp7dI0ZTWO+ljg==" rel="stylesheet" href="https://github.githubassets.com/assets/dark-d4a90c367f0c.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" integrity="sha512-cZa7DZqvMBwD236uzEunO/G1dvw8/QftyT2UtLWKQFEy0z0eq0R5WPwqVME+3NSZG1YaLJAaIqtU+m0zWf/6SQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-7196bb0d9aaf.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-WVoKqJ4y1nLsdNH4RkRT5qrM9+n9RFe1RHSiTnQkBf5TSZkJEc9GpLpTIS7T15EQaUQBJ8BwmKvwFPVqfpTEIQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-595a0aa89e32.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" integrity="sha512-XpAMBMSRZ6RTXgepS8LjKiOeNK3BilRbv8qEiA/M3m+Q4GoqxtHedOI5BAZRikCzfBL4KWYvVzYZSZ8Gp/UnUg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-5e900c04c491.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" integrity="sha512-3HF2HZ4LgEIQm77yOzoeR20CX1n2cUQlcywscqF4s+5iplolajiHV7E5ranBwkX65jN9TNciHEVSYebQ+8xxEw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-dc71761d9e0b.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-+J8j3T0kbK9/sL3zbkCfPtgYcRD4qQfRbT6xnfOrOTjvz4zhr0M7AXPuE642PpaxGhHs1t77cTtieW9hI2K6Gw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-f89f23dd3d24.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" integrity="sha512-AQeAx5wHQAXNf0DmkvVlHYwA3f6BkxunWTI0GGaRN57GqD+H9tW8RKIKlopLS0qGaC54seFsPc601GDlqIuuHg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-010780c79c07.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" integrity="sha512-+u5pmgAE0T03d/yI6Ha0NWwz6Pk0W6S6WEfIt8veDVdK8NTjcMbZmQB9XUCkDlrBoAKkABva8HuGJ+SzEpV1Uw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-faee699a0004.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-aQP0RxhTQJTOSVCwAEd1MkEVLCTfIXXfF6tAYk+SQ1KJPWxngeEfBNePaJWd6I0V9Gx8giTdhWpt6SFDylYDfg==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-6903f4471853.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-ltaMW9dOd3msd6O6euj5Hl483QGIYtMxeP/6g9JRugNhgfWpAaivS8rnYz96fQCWbHBTFTnIcGmACdWSTUv2Yw==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-96d68c5bd74e.css" />
-  <link crossorigin="anonymous" media="all" integrity="sha512-KNz86nKFO+xNTCbhQ+Bd/LM+rkO4Tl35XkkWHTP0REs8nvjtgYFxzwotElBbuOYQ2uj/Jz9DbtJE+PesC6c7NQ==" rel="stylesheet" href="https://github.githubassets.com/assets/profile-28dcfcea7285.css" />
-<link crossorigin="anonymous" media="all" integrity="sha512-gcVt/lrMOehfmpGk6My2RR90yqEwbSbL+zNFY+XGSK7eBG5tOuKaT12VIRlJnJeVVfGLtTMTvrragrS9ICwyJw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-81c56dfe5acc.css" />
+  <
 
 
-
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-fp1oQyNkx6S96VpEgxnXfEVzmB3kOVaaGc9swF7dG477VSzPRQRoYjzVjSwReTDAbQoyiZixlfTuofqUZR5MMw==" src="https://github.githubassets.com/assets/runtime-7e9d68432364.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-vsBGppmXIEjLUtOb6e/qO+dEgDeerrvQBEqsVRmHXNjlj5rt3OSC5hXO8VkkZehq3yHL4G+psBQN/BOLpytgaw==" src="https://github.githubassets.com/assets/environment-bec046a69997.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-mNt9opq5jyqeZdWMV25dquh3PeAJZk/NFBfdGMUbTN7JB344FlZu6Jr8g/ieGGy+3sy5REA/uZXM0GmGKqOpcw==" src="https://github.githubassets.com/assets/5329-98db7da29ab9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-2Jho08slWnIhqdOEj3M4qqEb5y9jUoJ/CE7YqOUy9P8XI09VjtlT2vvhORApqHsbyHc/EErivbv6VsG9WYwdNg==" src="https://github.githubassets.com/assets/2486-d89868d3cb25.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-qeXhQhdUksovjhfO67Q8utZkk/r3ExEe6AH4fmssREFU80YrOhGWIzgyjkSpIwZSgLU5zAXsAJ+YoMdML2MoiQ==" src="https://github.githubassets.com/assets/3706-a9e5e1421754.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-KdgpPxaUUGlr+MamKX9NvWrX3mD03/LPvKF8yetd15DbCpaVJHntThNZXqnBS9iviapcdR9l7+TjQQ5YvtKTSQ==" src="https://github.githubassets.com/assets/github-elements-29d8293f1694.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-B9BDin7JCua4fELEzx+3lUHswpZMLKVlVJVnZczR8ZgmjK2RbK4NyZSwyPXj9wQXR0+GEdhgL4cT8z/mWE1ZBQ==" src="https://github.githubassets.com/assets/element-registry-07d0438a7ec9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ZAKZQWCEc6bs9LSQOCPRWq3wqRDkQxG2bPL/pW9Lj/Seap0PV0kF/yKCHske8mW3Zytde9n1Im83jxrCmpaMrA==" src="https://github.githubassets.com/assets/5724-640299416084.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Hb8d69V10VxkC90NX3zvjNovHq5vrRv0XCde5qNf5WiQAB6BziCN+gEbKG+fDj8i05B2pBdyGIh+3pmaRvzLJA==" src="https://github.githubassets.com/assets/5388-1dbf1debd575.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-j9tCiIT7h+++Hko9qwRezOfoO32kBBlf6Te9zZyxxmrxG1EA5ji2QCYAIzd5vXB7616gZ5m9J+WMQwv3VEf1wA==" src="https://github.githubassets.com/assets/93-8fdb428884fb.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-JPHg6lXC/kVMbA05VoaD5W739fMUF/ObaJ4NrZWLi91OWI9xEhJ9NtwbGROmxjCm5FGwNOVohY+DXILkO19dtA==" src="https://github.githubassets.com/assets/8932-24f1e0ea55c2.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-heG3JMoQq3ducVj0rke7ixXR6HU4XKtSlNnKQ6uGDD+JjKmcpeXRiBBQnX1biRw9F33Eyqkqv7wifIWv4lEk/Q==" src="https://github.githubassets.com/assets/1717-85e1b724ca10.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-sRQhpsvWsaFceSgm0Y0aYXDFLEKxVtAIjhjYygIrldWYcvmNnA9lay2KhW/iZq0nHacTRi62LrKIRyBHJsApzQ==" src="https://github.githubassets.com/assets/8646-b11421a6cbd6.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-6R9/TxzoPUwQ1NL7/h7RqyZ9KrJ4yEOtiSfUrwBRv3VJIS+Xgd2raPaOSZKNOBGE4u6mhKP9nZrcFQ/qasoDeg==" src="https://github.githubassets.com/assets/3682-e91f7f4f1ce8.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-JLnnTPhYd6z7k1g7CjOIUK4YQRvqCzvSNqRq6GH8tenPhyDVVXDp//clwLGS9xZc07/khbn/oI6NNUUUU5viPQ==" src="https://github.githubassets.com/assets/3932-24b9e74cf858.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-avY7kgWZi20dcW5UgNkiKrgbOKvJGW0kArbkQcA9MWQx0SRjJv4JcKHNdMN3o6ML+inGPd8ib1+nJECF5VJ5Kw==" src="https://github.githubassets.com/assets/3826-6af63b920599.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-a4WgZYeVc2aKrHPyOfYm6uY7Vcw96gOwHqRhs6hkNqnhHJuZC4f94uvcomE6JS3HhgCVZTQpvU8PgucLwSkteg==" src="https://github.githubassets.com/assets/5222-6b85a0658795.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-mKtLiJIkehYb6M3r9Qc3i9nEMdkShtBod3TR4l8dRaz7pCsz0C3dhdAwWTHJ5sMgOf2DEEhqcLzmgYEuxHkI+A==" src="https://github.githubassets.com/assets/behaviors-98ab4b889224.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-gy8qIM5ywfZwY9t64qGa3rDcqWJGKXayF+CsUt0owghpz2eqnNX2tMtSRRdOybIIwu6cScH/b8SkXvSHQt5qow==" src="https://github.githubassets.com/assets/7749-832f2a20ce72.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-KKLG+hE5uCMJHxwocsH3WQNYzT3qftRjkNe7L0b5aOMgoS5iT5oWDIwhiy38adTWwg6xdomYeWvi2+wQBjOBAg==" src="https://github.githubassets.com/assets/notifications-global-28a2c6fa1139.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-d1XtS+PhkTeow+qnxjmuCKBIlZp22Jc0mu3wySt/YJTUkcnJgUkLosapoMqPojIPG80D9mbuO2vJep3T0PM4Hg==" src="https://github.githubassets.com/assets/1602-7755ed4be3e1.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-dz/S8Ll10yAj9MF2KfTMfiu+1EJ3x4bj2qQGx/ei+9hrNBTyveo4pVTULs8YhTT+Bh9vYImcpoNVXoiX7fVbfA==" src="https://github.githubassets.com/assets/profile-773fd2f0b975.js"></script>
-  
-
+  <
   <meta name="viewport" content="width=device-width">
   
   <title>S89219 (892-19⁴)</title>
